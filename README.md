@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zarifa8
 - 👀 I’m interested in ...learning programming
-- 🌱 I’m currently learning ...python and C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...python and C# and SQL,.NET
 - 📫 How to reach me ... zerifemehtizade@gmail.com
 
 <!---
