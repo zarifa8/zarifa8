@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @zarifa8
-- 👀 I’m interested in ...learning programming
-- 🌱 I’m currently learning ...python and C# and SQL,.NET
-- 📫 How to reach me ... zerifemehtizade@gmail.com
+## 👋 Hi, I'm Zerife!  
+I'm a passionate **Web Developer** 🚀 and currently learning **React.js**.
 
-<!---
-zarifa8/zarifa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 About Me:
+- 🎓 I'm a **2nd-year university student** studying [Your Major].
+- 💻 Currently working on **Web development projects**.
+- 📚 Learning **React.js and improving my English skills**.
+- 🌱 Future goal: Become a **Full Stack Developer**.
+- ✨ Interested in **building web applications** and contributing to open source.
+
+### 🛠️ Tech Stack:
+- 💡 **Languages:** HTML, CSS, JavaScript  
+- 🛠️ **Frameworks/Libraries:** React.js (learning)  
+- 🎨 **Tools:** VS Code, Figma
+
+### 📬 Contact Me:
+- 📧 Email: zerifemehtizade@gmail.com
