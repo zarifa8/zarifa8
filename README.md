@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Zerife!  
-I'm a passionate **Web Developer** 🚀 and currently learning **React.js**.
+I'm a passionate **Web Developer** 🚀.
 
 ### 🔥 About Me:
 - 🎓 I'm studying **Information Technology**.  
@@ -9,7 +9,7 @@ I'm a passionate **Web Developer** 🚀 and currently learning **React.js**.
 
 ### 🛠️ Tech Stack:
 - 💡 **Languages:** HTML, CSS, JavaScript  
-- 🛠️ **Frameworks/Libraries:** React.js (learning)  
+- 🛠️ **Frameworks/Libraries:** React.js  
 - 🎨 **Tools:** VS Code, Figma  
 
 ### 📬 Contact Me:
